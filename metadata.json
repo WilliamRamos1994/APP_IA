@@ -1,0 +1,6 @@
+{
+  "name": "RunTracker Sheets",
+  "description": "Aplicación móvil estilo Adidas Running para registrar entrenamientos, calcular ritmo automáticamente, analizar sesiones con Gemini IA y guardar filas en Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
